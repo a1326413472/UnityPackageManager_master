@@ -42,6 +42,8 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+.plastic/
+.vsconfig
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -57,4 +59,9 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+# XLua Package
+/[Pp]ackages/XLua/
+
+
 
