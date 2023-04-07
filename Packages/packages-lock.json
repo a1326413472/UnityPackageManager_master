@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.assetstore.ase": {
+      "version": "file:AmplifyShaderEditor",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.tencent.xlua": {
       "version": "file:XLua",
       "depth": 0,
