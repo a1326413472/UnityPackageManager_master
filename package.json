@@ -1,0 +1,8 @@
+{
+  "name": "com.tencent.xlua",
+  "description": "xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.",
+  "version": "2.1.16",
+  "unity": "2019.4",
+  "displayName": "XLua",
+  "author": "Tencent"
+}
